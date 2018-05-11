@@ -74,7 +74,7 @@ git clone https://github.com/open-dingtalk/isv_demo_php.git
 
 
 
-![image.png | left | 748x619](https://cdn.yuque.com/lark/0/2018/png/20097/1524195373143-fe5133d6-38b6-46e9-af93-74640afe20bc.png "")
+![image.png | left | 748x619](https://cdn.yuque.com/lark/0/2018/png/20097/1524195373143-fe5133d6-38b6-46e9-af93-74640afe20bc.png)
 
 
 选择类型为“测试应用”
